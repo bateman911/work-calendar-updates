@@ -1,0 +1,21 @@
+{
+  "app_id": "org.yarik.calendar.workcalendarmobile",
+  "channels": {
+    "direct": {
+      "latest_version_name": "0.1.1",
+      "latest_version_code": 1021101,
+      "min_supported_code": 1021100,
+      "mandatory": false,
+      "published_at": "2026-03-31T00:10:00Z",
+      "whats_new": [
+        "Исправлена HTTPS-проверка сертификата для Android",
+        "Добавлена загрузка updates.json с внешнего URL",
+        "Добавлена установка APK из приложения"
+      ],
+      "download_url": "https://shamsutdinovyar.ru/calendar/releases/workcalendarmobile-debug.apk",
+      "details_url": "https://shamsutdinovyar.ru/calendar/",
+      "sha256": "e70d23cff203d401ddab917f255e391030c02aaff11432428ea4950ec20a0024",
+      "size_bytes": 36582560
+    }
+  }
+}
