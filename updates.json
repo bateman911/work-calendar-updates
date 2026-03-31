@@ -6,14 +6,14 @@
       "latest_version_code": 1021101,
       "min_supported_code": 1021100,
       "mandatory": false,
-      "published_at": "2026-03-31T00:10:00Z",
+      "published_at": "2026-04-01T00:10:00Z",
       "whats_new": [
-        "Исправлена HTTPS-проверка сертификата для Android",
-        "Добавлена загрузка updates.json с внешнего URL",
-        "Добавлена установка APK из приложения"
+        "Исправлена HTTPS-проверка сертификатов",
+        "Добавлена загрузка updates.json по внешнему URL",
+        "Добавлено скачивание APK и запуск установщика"
       ],
-      "download_url": "https://shamsutdinovyar.ru/calendar/releases/workcalendarmobile-debug.apk",
-      "details_url": "https://shamsutdinovyar.ru/calendar/",
+      "download_url": "https://github.com/bateman911/work-calendar-updates/releases/download/v0.1.1/workcalendarmobile-debug.apk",
+      "details_url": "https://github.com/bateman911/work-calendar-updates/releases/tag/v0.1.1",
       "sha256": "e70d23cff203d401ddab917f255e391030c02aaff11432428ea4950ec20a0024",
       "size_bytes": 36582560
     }
