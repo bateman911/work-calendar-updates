@@ -6,16 +6,16 @@
       "latest_version_code": 1021101,
       "min_supported_code": 1021100,
       "mandatory": false,
-      "published_at": "2026-04-01T00:10:00Z",
+      "published_at": "2026-04-02T00:10:00Z",
       "whats_new": [
         "Исправлена HTTPS-проверка сертификатов",
-        "Добавлена загрузка updates.json по внешнему URL",
-        "Добавлено скачивание APK и запуск установщика"
+        "Добавлена системная загрузка обновления через Android DownloadManager",
+        "Исправлен запуск установщика APK и улучшен экран обновлений"
       ],
-      "download_url": "https://github.com/bateman911/work-calendar-updates/releases/download/v0.1.1/workcalendarmobile-debug.apk",
+      "download_url": "https://github.com/bateman911/work-calendar-updates/releases/download/v0.1.1/workcalendarmobile-0.1.1-arm64-v8a_armeabi-v7a-debug.apk",
       "details_url": "https://github.com/bateman911/work-calendar-updates/releases/tag/v0.1.1",
-      "sha256": "e70d23cff203d401ddab917f255e391030c02aaff11432428ea4950ec20a0024",
-      "size_bytes": 36582560
+      "sha256": "60273b7ade7e948efd86ed3ac20c26dbce0daefa0dda3c822646b1d829213aca",
+      "size_bytes": 36588216
     }
   }
 }
