@@ -4,7 +4,7 @@
     "direct": {
       "latest_version_name": "0.1.2",
       "latest_version_code": 1021102,
-      "min_supported_code": 1021100,
+      "min_supported_code": 1021101,
       "mandatory": false,
       "published_at": "2026-04-02T00:10:00Z",
       "whats_new": [
