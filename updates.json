@@ -12,7 +12,7 @@
         "Добавлена системная загрузка обновления через Android DownloadManager",
         "Исправлен запуск установщика APK и улучшен экран обновлений"
       ],
-      "download_url": "https://github.com/bateman911/work-calendar-updates/releases/download/v0.1.1/workcalendarmobile-0.1.2-arm64-v8a_armeabi-v7a-debug.apk",
+      "download_url": "https://github.com/bateman911/work-calendar-updates/releases/download/v0.1.2/workcalendarmobile-0.1.2-arm64-v8a_armeabi-v7a-debug.apk",
       "details_url": "https://github.com/bateman911/work-calendar-updates/releases/tag/v0.1.2",
       "sha256": "d9bada78334447ac3c649be775211423d04c8dbd2ea518bdd0682a2224c223a5",
       "size_bytes": 36587906
